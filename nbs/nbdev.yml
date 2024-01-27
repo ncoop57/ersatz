@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ersatz"
+  site-url: "https://ncoop57.github.io/ersatz"
+  description: "A library for manufacturing interactions at scale"
+  repo-branch: main
+  repo-url: "https://github.com/ncoop57/ersatz"
