@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://ncoop57.github.io',
                 'git_url': 'https://github.com/ncoop57/ersatz',
                 'lib_path': 'ersatz'},
-  'syms': {'ersatz.core': {'ersatz.core.foo': ('core.html#foo', 'ersatz/core.py')}}}
+  'syms': { 'ersatz.core': { 'ersatz.core.Conversation': ('interactions.html#conversation', 'ersatz/core.py'),
+                             'ersatz.core.Conversation.__init__': ('interactions.html#conversation.__init__', 'ersatz/core.py'),
+                             'ersatz.core.Conversation.forward': ('interactions.html#conversation.forward', 'ersatz/core.py')}}}
