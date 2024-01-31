@@ -7,4 +7,7 @@ d = { 'settings': { 'branch': 'main',
                 'lib_path': 'ersatz'},
   'syms': { 'ersatz.core': { 'ersatz.core.Conversation': ('interactions.html#conversation', 'ersatz/core.py'),
                              'ersatz.core.Conversation.__init__': ('interactions.html#conversation.__init__', 'ersatz/core.py'),
-                             'ersatz.core.Conversation.forward': ('interactions.html#conversation.forward', 'ersatz/core.py')}}}
+                             'ersatz.core.Conversation.forward': ('interactions.html#conversation.forward', 'ersatz/core.py'),
+                             'ersatz.core.GenerateAnswer': ('interactions.html#generateanswer', 'ersatz/core.py'),
+                             'ersatz.core.GenerateQuestionOrInstruction': ( 'interactions.html#generatequestionorinstruction',
+                                                                            'ersatz/core.py')}}}
