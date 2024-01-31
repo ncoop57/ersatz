@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "symbolic_representers.html",
+    "href": "symbolic_representers.html",
+    "title": "symbolic_representers",
+    "section": "",
+    "text": "ImageRepresenter\n\n ImageRepresenter ()\n\nInitialize self. See help(type(self)) for accurate signature.\n\n\n\nVideoRepresenter\n\n VideoRepresenter ()\n\nInitialize self. See help(type(self)) for accurate signature.",
+    "crumbs": [
+      "symbolic_representers"
+    ]
+  },
+  {
+    "objectID": "interactions.html",
+    "href": "interactions.html",
+    "title": "interactions",
+    "section": "",
+    "text": "source\n\nConversation\n\n Conversation ()\n\nInitialize self. See help(type(self)) for accurate signature.",
+    "crumbs": [
+      "interactions"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "foo\n\n foo ()",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ersatz",
+    "section": "",
+    "text": "Library behind the paper: “Scaling Ersatz User Interactions via Foundation Models for Training AI Agents”\nSupports the following Ersatz Interactions: * QA of Documents and Websites * Chat with a bot * Using tools * Performing actions in an environment (e.g. website, mobile phone, PC, etc)\nSupports the following modalities: * Text * Images * Videos * Audio",
+    "crumbs": [
+      "ersatz"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "ersatz",
+    "section": "Install",
+    "text": "Install\npip install ersatz",
+    "crumbs": [
+      "ersatz"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "ersatz",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "ersatz"
+    ]
+  }
+]
